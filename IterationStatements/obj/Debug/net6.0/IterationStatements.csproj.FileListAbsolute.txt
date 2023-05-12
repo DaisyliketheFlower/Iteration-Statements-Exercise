@@ -1,0 +1,15 @@
+/Users/daisyomoikirodah/Desktop/New Folder With Items 11.26.25 AM/repo/Iteration-Statements-Exercise/IterationStatements/obj/Debug/net6.0/IterationStatements.csproj.AssemblyReference.cache
+/Users/daisyomoikirodah/Desktop/New Folder With Items 11.26.25 AM/repo/Iteration-Statements-Exercise/IterationStatements/obj/Debug/net6.0/IterationStatements.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daisyomoikirodah/Desktop/New Folder With Items 11.26.25 AM/repo/Iteration-Statements-Exercise/IterationStatements/obj/Debug/net6.0/IterationStatements.AssemblyInfoInputs.cache
+/Users/daisyomoikirodah/Desktop/New Folder With Items 11.26.25 AM/repo/Iteration-Statements-Exercise/IterationStatements/obj/Debug/net6.0/IterationStatements.AssemblyInfo.cs
+/Users/daisyomoikirodah/Desktop/New Folder With Items 11.26.25 AM/repo/Iteration-Statements-Exercise/IterationStatements/obj/Debug/net6.0/IterationStatements.csproj.CoreCompileInputs.cache
+/Users/daisyomoikirodah/Desktop/New Folder With Items 11.26.25 AM/repo/Iteration-Statements-Exercise/IterationStatements/bin/Debug/net6.0/IterationStatements
+/Users/daisyomoikirodah/Desktop/New Folder With Items 11.26.25 AM/repo/Iteration-Statements-Exercise/IterationStatements/bin/Debug/net6.0/IterationStatements.deps.json
+/Users/daisyomoikirodah/Desktop/New Folder With Items 11.26.25 AM/repo/Iteration-Statements-Exercise/IterationStatements/bin/Debug/net6.0/IterationStatements.runtimeconfig.json
+/Users/daisyomoikirodah/Desktop/New Folder With Items 11.26.25 AM/repo/Iteration-Statements-Exercise/IterationStatements/bin/Debug/net6.0/IterationStatements.dll
+/Users/daisyomoikirodah/Desktop/New Folder With Items 11.26.25 AM/repo/Iteration-Statements-Exercise/IterationStatements/bin/Debug/net6.0/IterationStatements.pdb
+/Users/daisyomoikirodah/Desktop/New Folder With Items 11.26.25 AM/repo/Iteration-Statements-Exercise/IterationStatements/obj/Debug/net6.0/IterationStatements.dll
+/Users/daisyomoikirodah/Desktop/New Folder With Items 11.26.25 AM/repo/Iteration-Statements-Exercise/IterationStatements/obj/Debug/net6.0/refint/IterationStatements.dll
+/Users/daisyomoikirodah/Desktop/New Folder With Items 11.26.25 AM/repo/Iteration-Statements-Exercise/IterationStatements/obj/Debug/net6.0/IterationStatements.pdb
+/Users/daisyomoikirodah/Desktop/New Folder With Items 11.26.25 AM/repo/Iteration-Statements-Exercise/IterationStatements/obj/Debug/net6.0/IterationStatements.genruntimeconfig.cache
+/Users/daisyomoikirodah/Desktop/New Folder With Items 11.26.25 AM/repo/Iteration-Statements-Exercise/IterationStatements/obj/Debug/net6.0/ref/IterationStatements.dll
